@@ -1,0 +1,14 @@
+streamlit==1.32.0
+langchain==0.1.12
+langchain-community==0.0.28
+langchain-core==0.1.33
+PyMuPDF==1.23.26
+sentence-transformers==2.5.1
+chromadb==0.4.24
+rank_bm25==0.2.2
+requests==2.31.0
+ragas
+datasets
+unstructured[pdf]
+pdf2image
+unstructured-inference
